@@ -45,19 +45,15 @@ Serum Insulin
 BMI
 DiabetesPedigreeFunction
 Age
-
 …and outputs whether the patient is likely Diabetic or Non-Diabetic.
 
 📈 Model Performance
 Model: RandomForestClassifier
-
 Accuracy: ~[92%]
 
 ⚙️ Technologies Used
 Python – Programming language
-
 Pandas – Data handling
-
 Scikit-learn – Machine learning
 
 Gradio – Web interface for ML models
@@ -69,6 +65,17 @@ This project is open-source and available for anyone to use.
 
 ⭐ Contributing
 Contributions are welcome! Feel free to submit pull requests or open issues.
+
+🎥 Video Tutorial
+For a step-by-step walkthrough of this project, check out the following video:
+
+👉 Diabetes Classification with RandomForest and Gradio
+This video covers:
+Loading and preprocessing the dataset
+Training the RandomForest model
+Building and deploying the Gradio interface
+Feel free to watch and follow along!
+
 
 📞 Contact
 Author: Mohamed Tarek
